@@ -5,11 +5,11 @@ In a nutshell, main peculiar features of the proposed VirtFogSim toolbox are tha
 
 In order to launch the VirtFogSim simulator with the standard command-line interface, please run the file:
 
->> VirtFogSim
+> VirtFogSim
 
 otherwise, to launch the VirtFogSim simulator with the Graphical User Interface (GUI), please run the file:
 
->> VirtFogSimGUI
+> VirtFogSimGUI
 
 
 
