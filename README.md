@@ -3,6 +3,15 @@ VirtFogSim is a MATLAB-supported software toolbox that allows the dynamic joint 
 
 In a nutshell, main peculiar features of the proposed VirtFogSim toolbox are that: (i) it allows the joint dynamic energy-aware optimization of the placement of the application tasks and the allocation of the needed computing-networking resources under hard constraints on the allowed overall execution times; (ii) it allows the repeatable and customizable simulation of the resulting energy-delay performance of the overall system; (iii) it allows the dynamic tracking of the performed resource allocation under time-varying operational environments, as those typically featuring mobile applications; (iv) it is equipped by an user-friendly Graphic User Interface (GUI) that supports a number of graphic formats for data rendering; and, (v) its MATLAB code is optimized for running atop multi-core parallel execution platforms.
 
+In order to launch the VirtFogSim simulator with the standard command-line interface, please run the file:
+
+>> VirtFogSim
+
+otherwise, to launch the VirtFogSim simulator with the Graphical User Interface (GUI), please run the file:
+
+>> VirtFogSimGUI
+
+
 
 Parallel Mobile Fog Simulator - VirtFogSim             
                                                  
