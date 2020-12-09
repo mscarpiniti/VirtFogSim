@@ -7,6 +7,7 @@ VirtFogSim is based on the following papers:
 1. M. Scarpiniti, E. Baccarelli and A. Momenzadeh, "VirtFogSim: A Parallel Toolbox for Dynamic Energy-Delay Performance Testing and Optimization of 5G Mobile-Fog-Cloud Virtualized Platforms", *Applied Sciences*, Vol. 9, N. 6, Paper 1160, pp. 1-48, March 2019.
 2. E. Baccarelli, M. Scarpiniti and A. Momenzadeh, "EcoMobiFog - Design and dynamic optimization of a 5G Mobile-Fog-Cloud multi-tier ecosystem for the real-time distributed execution of stream applications", *IEEE Access*, Vol. 7, pp. 55565-55608, 2019.
 
+
 In order to launch the VirtFogSim simulator with the standard command-line interface, please run the file:
 
 > VirtFogSim
